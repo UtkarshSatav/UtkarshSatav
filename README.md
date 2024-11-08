@@ -15,7 +15,7 @@
  
  🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
 
-🌱 I’m currently learning **Amber**.
+🌱 I’m currently learning **Python**.
 
 ⚡ I am also interested in **UI/UX**, **Machine Learning**, **AI**, **Cloud Computing** and in **Augmented Reality** .
 
@@ -57,7 +57,7 @@
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/UtkarshSatav/UtkarshSatav/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Tanay1805/Tanay1805/blob/output/github-contribution-grid-snake-dark.svg" />
   
 
 </div>
