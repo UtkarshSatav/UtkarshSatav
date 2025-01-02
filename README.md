@@ -15,7 +15,7 @@
  
  🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
 
-🌱 I’m currently learning **Python**.
+🌱 I’m currently learning **C++**.
 
 ⚡ I am also interested in **UI/UX**, **Machine Learning**, **AI**, **Cloud Computing** and in **Augmented Reality** .
 
