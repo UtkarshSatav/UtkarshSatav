@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hola+Dev's!+👋;+I'm+Utkarsh+Satav!;" /></h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding GIF">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://octodex.github.com/daftpunktocat-guy/" alt="Coding GIF">
 </p>
 </div>
 <br/>
