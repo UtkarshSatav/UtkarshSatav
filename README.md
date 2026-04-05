@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Utkarsh%20Satav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Tech%20Enthusiast%20%7C%20Builder%20%7C%20Explorer&descAlignY=52&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=180&section=header&text=Utkarsh%20Satav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Tech%20Enthusiast%20%7C%20Builder%20%7C%20Explorer&descAlignY=52&descSize=16" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;UI%2FUX+Designer+%F0%9F%8E%A8;Cloud+%26+AR+Explorer+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;UI%2FUX+Designer+%F0%9F%8E%A8;Cloud+%26+AR+Explorer+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
@@ -68,14 +68,14 @@ const utkarsh = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UtkarshSatav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshSatav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UtkarshSatav&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&icon_color=6366F1&title_color=6366F1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshSatav&layout=compact&theme=default&hide_border=false&title_color=6366F1&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshSatav&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com/?user=UtkarshSatav&theme=default&hide_border=false&ring=6366F1&fire=F97316&currStreakLabel=6366F1" />
 
 </div>
 
@@ -85,7 +85,7 @@ const utkarsh = {
 
 <div align="center">
 
-[![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UtkarshSatav&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=6AD3F7&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UtkarshSatav&theme=github-light&hide_border=false&line=6366F1&point=F97316&area=true&area_color=6366F1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -109,7 +109,7 @@ const utkarsh = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=UtkarshSatav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=UtkarshSatav&theme=flat&no-frame=false&margin-w=6&row=1&column=7" />
 
 </div>
 
@@ -131,8 +131,8 @@ const utkarsh = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=UtkarshSatav&label=Profile%20Views&color=6AD3F7&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=UtkarshSatav&label=Profile%20Views&color=6366F1&style=flat)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=100&section=footer" width="100%"/>
 
 </div>
