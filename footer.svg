@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" width="100%">
   <defs>
     <pattern id="dotgrid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
-      <circle cx="16" cy="16" r="1.6" fill="#DC2626" fill-opacity="0.45"/>
+      <circle cx="16" cy="16" r="1.6" fill="#7B7CE8" fill-opacity="0.45"/>
     </pattern>
     <radialGradient id="overlay" cx="0" cy="0" r="1"
                     gradientUnits="userSpaceOnUse"
@@ -17,6 +17,6 @@
   <rect width="900" height="90" fill="url(#dotgrid)"/>
   <rect width="900" height="90" fill="url(#overlay)"/>
 
-  <!-- 1px red line at top -->
-  <rect width="900" height="1" fill="#DC2626"/>
+  <!-- 1px purple line at top -->
+  <rect width="900" height="1" fill="#7B7CE8"/>
 </svg>
