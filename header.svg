@@ -1,60 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190" width="100%">
   <defs>
-
-    <!-- 32px dot grid — red dots, matches the React component's 32px backgroundSize -->
     <pattern id="dotgrid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
       <circle cx="16" cy="16" r="1.6" fill="#DC2626" fill-opacity="0.45"/>
     </pattern>
-
-    <!--
-      Overlay gradient replicating:
-        radial-gradient(ellipse 80% 80% at 100% 0%, transparent 50%, #fff 90%)
-      — Transparent at top-right (dots show through), opaque #fff toward bottom-left (dots hidden).
-
-      Technique: define unit circle at origin, then transform:
-        translate(900, 0)   → move center to top-right corner
-        scale(720, 160)     → stretch into 80%×80% ellipse (0.8×900=720, 0.8×200=160)
-    -->
-    <radialGradient id="overlay"
-                    cx="0" cy="0" r="1"
+    <radialGradient id="overlay" cx="0" cy="0" r="1"
                     gradientUnits="userSpaceOnUse"
-                    gradientTransform="translate(900,0) scale(720,160)">
+                    gradientTransform="translate(900,0) scale(720,152)">
       <stop offset="0%"   stop-color="#ffffff" stop-opacity="0"/>
       <stop offset="50%"  stop-color="#ffffff" stop-opacity="0"/>
       <stop offset="90%"  stop-color="#ffffff" stop-opacity="1"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="1"/>
     </radialGradient>
-
   </defs>
 
-  <!-- Base white background -->
-  <rect width="900" height="200" fill="#ffffff"/>
+  <rect width="900" height="190" fill="#ffffff"/>
+  <rect width="900" height="190" fill="url(#dotgrid)"/>
+  <rect width="900" height="190" fill="url(#overlay)"/>
 
-  <!-- Full dot grid (will be masked by overlay below) -->
-  <rect width="900" height="200" fill="url(#dotgrid)"/>
+  <!-- 1px red line at bottom -->
+  <rect y="189" width="900" height="1" fill="#DC2626"/>
 
-  <!-- Diagonal fade overlay — covers dots from bottom-left, reveals them at top-right -->
-  <rect width="900" height="200" fill="url(#overlay)"/>
-
-  <!-- Red accent strip at bottom -->
-  <rect y="194" width="900" height="6" fill="#DC2626"/>
-
-  <!-- Small secondary wave in very light blush above the strip -->
-  <path d="M0,185 C180,175 360,194 540,180 C720,166 810,188 900,182 L900,194 L0,194 Z"
-        fill="#FEE2E2"/>
-
-  <!-- Name -->
-  <text x="64" y="96"
+  <text x="64" y="90"
         font-family="'Segoe UI', Helvetica, Arial, sans-serif"
         font-size="44" font-weight="700"
         fill="#991B1B" letter-spacing="1.5">Utkarsh Satav</text>
 
-  <!-- Red underline accent bar -->
-  <rect x="64" y="110" width="52" height="3.5" rx="2" fill="#DC2626"/>
+  <rect x="64" y="104" width="48" height="2.5" rx="1.5" fill="#DC2626"/>
 
-  <!-- Subtitle -->
-  <text x="64" y="146"
+  <text x="64" y="138"
         font-family="'Segoe UI', Helvetica, Arial, sans-serif"
         font-size="15" fill="#9CA3AF" letter-spacing="1">Tech Enthusiast  ·  Builder  ·  Explorer</text>
-
 </svg>
