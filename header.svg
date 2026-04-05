@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="100%">
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="2.2" fill="rgba(255,255,255,0.22)"/>
+    </pattern>
+    <linearGradient id="redgrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7F1D1D"/>
+      <stop offset="50%" style="stop-color:#DC2626"/>
+      <stop offset="100%" style="stop-color:#EF4444"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Red gradient background -->
+  <rect width="900" height="210" fill="url(#redgrad)"/>
+
+  <!-- Dotted grid overlay -->
+  <rect width="900" height="210" fill="url(#dots)"/>
+
+  <!-- Wavy bottom edge (back layer) -->
+  <path d="M0,158 C100,178 200,138 300,160 C400,182 500,135 600,158 C700,181 800,142 900,162 L900,210 L0,210 Z"
+        fill="white" opacity="0.35"/>
+
+  <!-- Wavy bottom edge (front layer) -->
+  <path d="M0,172 C120,150 240,192 380,168 C520,144 650,185 780,162 C840,151 880,168 900,175 L900,210 L0,210 Z"
+        fill="white"/>
+
+  <!-- Name text -->
+  <text x="450" y="88" text-anchor="middle"
+        font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="46" font-weight="700" fill="white" letter-spacing="2">
+    Utkarsh Satav
+  </text>
+
+  <!-- Subtitle -->
+  <text x="450" y="128" text-anchor="middle"
+        font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="16" fill="rgba(255,255,255,0.88)" letter-spacing="1">
+    Tech Enthusiast | Builder | Explorer
+  </text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%">
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="2.2" fill="rgba(255,255,255,0.22)"/>
+    </pattern>
+    <linearGradient id="redgrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7F1D1D"/>
+      <stop offset="50%" style="stop-color:#DC2626"/>
+      <stop offset="100%" style="stop-color:#EF4444"/>
+    </linearGradient>
+  </defs>
+
+  <!-- White top background -->
+  <rect width="900" height="120" fill="white"/>
+
+  <!-- Red wave rising from bottom (back layer) -->
+  <path d="M0,68 C120,88 240,48 380,72 C520,96 650,52 780,72 C840,82 880,65 900,60 L900,120 L0,120 Z"
+        fill="url(#redgrad)" opacity="0.4"/>
+
+  <!-- Red wave rising from bottom (front layer) -->
+  <path d="M0,82 C100,62 220,98 360,76 C500,54 640,90 780,68 C845,57 880,74 900,80 L900,120 L0,120 Z"
+        fill="url(#redgrad)"/>
+
+  <!-- Dot grid on red area -->
+  <path d="M0,82 C100,62 220,98 360,76 C500,54 640,90 780,68 C845,57 880,74 900,80 L900,120 L0,120 Z"
+        fill="url(#dots)"/>
+</svg>
