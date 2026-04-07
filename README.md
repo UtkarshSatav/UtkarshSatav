@@ -1,8 +1,4 @@
-<div align="center">!
-  [saifee-art-tLjTq3_Sk5Q-unsplash](https://github.com/user-attachments/assets/8f5bcb37-0681-4577-9516-594e64b875d8)
-
-
-
+<div align="center">
 <h2>Utkarsh Satav</h2>
 <sub>Tech Enthusiast &nbsp;·&nbsp; Builder &nbsp;·&nbsp; Explorer</sub>
 </div>
