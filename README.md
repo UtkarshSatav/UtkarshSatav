@@ -1,2 +1,1 @@
-![saifee-art-tLjTq3_Sk5Q-unsplash](https://github.com/user-attachments/assets/618a193c-d4d2-4209-9894-d2b11a6e02d2)
-
+<img width="6000" height="3375" alt="universtock-hdY-jQt57Ds-unsplash" src="https://github.com/user-attachments/assets/e83da94e-8081-4b6f-a701-bdbf75728067" />
