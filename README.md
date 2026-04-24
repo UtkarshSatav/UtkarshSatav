@@ -1,1 +1,1 @@
-<img width="6000" height="3375" alt="universtock-hdY-jQt57Ds-unsplash" src="https://github.com/user-attachments/assets/e83da94e-8081-4b6f-a701-bdbf75728067" />
+<img width="1920" height="1080" alt="Utkarsh Satav" src="https://github.com/user-attachments/assets/c0d3f3e0-533a-4bdc-9544-1726fb24b33b" />
